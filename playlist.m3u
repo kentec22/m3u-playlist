@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
-#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV Camera 301" group-title="CCTV",CCTV Camera 301
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV Camera 301" group-title="CCTV",Villa Lara 2B
 http://192.168.100.90:8000/cam301.m3u8
 
 #EXTINF:-1,Asian Food Network
@@ -116,3 +116,5 @@ http://165.5.1.254:80/play/BThFkI_Ow0Dd8ymGqTZ3jtRrOHUoRSUJxMjN4pZMHtM/ts
 http://165.5.1.254:80/play/0ZBxx9D7zpjC2If6SrdtMKVCLQ6OmBB235SpPxzIjAw/ts
 #EXTINF:-1,UAAP Varsity Channel
 http://165.5.1.254:80/play/G5eYVEPPa1pzmUeHnQAoFK51EFajKGZ1HJ7YcX-OH7U/ts
+#EXTINF:-1,Villa Lara 2B
+http://192.168.100.90:8000/cam301.m3u8
