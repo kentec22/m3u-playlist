@@ -1,18 +1,118 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
-# Camera Stream via RTSP
-#EXTINF:-1 tvg-id="cam301" tvg-name="Camera 301" group-title="CCTV",Camera 301
+#EXTINF:-1 tvg-id="cctv_cam301" tvg-name="CCTV Camera 301" group-title="CCTV",CCTV Camera 301
 rtsp://admin:hik12345@192.168.100.200:554/Streaming/Channels/301
 
-# Xtream Codes IPTV Stream
-# Replace this with the correct Xtream stream format (uses M3U link)
-# If player supports URL import, use this:
-# http://165.5.1.254:8080/get.php?username=llc&password=llc&type=m3u&output=ts
-# If you want to include specific entries, download and extract them manually:
-# Example below assumes it was extracted
-
-#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" group-title="Live",Channel 1
-http://165.5.1.254:8080/live/llc/llc/1.ts
-
-#EXTINF:-1 tvg-id="channel2" tvg-name="Channel 2" group-title="Live",Channel 2
-http://165.5.1.254:8080/live/llc/llc/2.ts
+#EXTINF:-1,Asian Food Network
+http://165.5.1.254:80/play/Hfx1MraOAIsrM8Uki3UoCA/ts
+#EXTINF:-1,A2Z
+http://165.5.1.254:80/play/ToDWuvkIxtOosxmigtc_Tw/ts
+#EXTINF:-1,Animal Planet
+http://165.5.1.254:80/play/7-l23RPw4HUXM_PmlnG6ug/ts
+#EXTINF:-1,Animax
+http://165.5.1.254:80/play/TT_ix3mAGsPqy9vJxcxox5z8BM-ku3pnzRvo6S0QTAE/ts
+#EXTINF:-1,AXN
+http://165.5.1.254:80/play/zUNuLyfpQeovOIKwWYoBkxzi8YQwABdkjNBdvtlQpSs/ts
+#EXTINF:-1,BBC Earth
+http://165.5.1.254:80/play/R3ebfSQEoGtC-rarPvTAnXB4EPmCv4Ac8Fitx3fJqzE/ts
+#EXTINF:-1,BBC WOrld News
+http://165.5.1.254:80/play/Sav4ZD1rhVrC3OlATq_--KVLd9c22NEOwLKAWkR02NE/ts
+#EXTINF:-1,Bilyonaryo News Channel
+http://165.5.1.254:80/play/Sqe_qW1uNpdpsoT8hdS2y52Q6Ksemv5K1dpf7uazP3Q/ts
+#EXTINF:-1,Bloomberg
+http://165.5.1.254:80/play/Suvb83Gxd9GvHKeSzo4nDzCoaMKBA04z8mU2aSJBjig/ts
+#EXTINF:-1,BUKO
+http://165.5.1.254:80/play/HcrCdmGuIG2hIF1o9mAknjiQ4RPvhoCPg6m1Gt7y0Gw/ts
+#EXTINF:-1,Cartoon Network
+http://165.5.1.254:80/play/mxyhgusbqFDnM1yLpvd9loI2I-FvEAiFUaIKTbIileQ/ts
+#EXTINF:-1,CINEMAONE
+http://165.5.1.254:80/play/666TPGcCup33kAVgW6o2geJX-dA5F4iLkoQGou_ggF4/ts
+#EXTINF:-1,CINEMAX
+http://165.5.1.254:80/play/ubNffqLlKACFOCSOu2-cFW2fWCmHOW0zf9WXONoPwWI/ts
+#EXTINF:-1,CNN HD
+http://165.5.1.254:80/play/l55Ok1AKhyq9f7ETN1PvYjp2X8od1kt8QPw5mTgNPZs/ts
+#EXTINF:-1,DepEd TV
+http://165.5.1.254:80/play/2u6Whq1Q2pCvMEQJtNRKtYEaQ5ekg6ldYZLtwm7Zt8Q/ts
+#EXTINF:-1,Dream Works Hd
+http://165.5.1.254:80/play/K49-jC3sv761M4UHskaptHdaOQtQV5t0iGDHFip1x6Y/ts
+#EXTINF:-1,DreamWorks (Tagalized)
+http://165.5.1.254:80/play/7JljeqfkOMZanASJi8KyTSZf1cPuA-I1xm-EIJ44xoM/ts
+#EXTINF:-1,GMA
+http://165.5.1.254:80/play/JGTLi0Ev6kbdkmKWhQxsLhJjZdS7sVvSo6bHuom3HPQ/ts
+#EXTINF:-1,HBO FAMILY HD
+http://165.5.1.254:80/play/DS3oWRcWK5k7M58Gesv_8WiPslg6MRowEuiZApgdSqY/ts
+#EXTINF:-1,HBO HD
+http://165.5.1.254:80/play/Lot2W_P-GlQqaR0vrtDxF6u6s4ooaPj13Z61Xw8eaGA/ts
+#EXTINF:-1,HBO HITS HD
+http://165.5.1.254:80/play/QTl7yzuDDN8Mio_iaRIfCXyata8NRugLgrQLLyMQVJ4/ts
+#EXTINF:-1,HBO SIGNATURE
+http://165.5.1.254:80/play/mvm5WC-kvU8I-iWW_e1mdQkaRkUDDCyVdAePJNMTMBo/ts
+#EXTINF:-1,History HD
+http://165.5.1.254:80/play/hPm5Z6oYZeFbpXEMJpw47Ku3lP7pASBlEFTlHWff3gU/ts
+#EXTINF:-1,Hits HD
+http://165.5.1.254:80/play/6oOI4copK6Apah3FwYqEaAek5L5oN5PGKZn5LLM8pmU/ts
+#EXTINF:-1,HITS MOVIE
+http://165.5.1.254:80/play/lMn9m6xDQeTr_55wvtsBdWSLzS36HTJJ2DDSy3YwKm4/ts
+#EXTINF:-1,HITS Now
+http://165.5.1.254:80/play/w7ZxP_DSqNkDds-UMAXkwk-pIBrjzJFe1p5nPDcXNZg/ts
+#EXTINF:-1,IBC13
+http://165.5.1.254:80/play/EAr4_vg5j5aAaMf4KsK_nrr5mD-CYpSXfFWFFbBiiRk/ts
+#EXTINF:-1,KAPAMILYA CHANNEL
+http://165.5.1.254:80/play/W4Qgwfb8SMFXEwstNE3FtruoQpJAa5DMSt7p0Vq0TWk/ts
+#EXTINF:-1,Kix HD
+http://165.5.1.254:80/play/aO_Qf29ULpDsms3qzQyX96cZOU1UFxaSbMqU2VycIeQ/ts
+#EXTINF:-1,Knowledge Channel
+http://165.5.1.254:80/play/8TJy7HdlhCkeoHncRuePdgA8Da67RnhHgtZaWKyDquE/ts
+#EXTINF:-1,Moonbug Kids
+http://165.5.1.254:80/play/aGxpQWWAjtuM9kFkH9FKC_CrZH1WGveozZoi99lXs6U/ts
+#EXTINF:-1,NBA PH
+http://165.5.1.254:80/play/PJ5pxm1J7jMjYV0SylXAb3DirCZdHvinKi_Nx2xQtOM/ts
+#EXTINF:-1,Nickelodeon SD
+http://165.5.1.254:80/play/tmw6WFLQC-avExOJz8_qUnNuS5R0kSzUKvebGqVnMwY/ts
+#EXTINF:-1,CINEMO
+http://165.5.1.254:80/play/XmM6EWTL-9sjz8veAIwIyYmM0ZHYu4tby4EMVacBNIk/ts
+#EXTINF:-1,ONE NEWS
+http://165.5.1.254:80/play/bSHC6oxezMN6Ytf4JTDzxIkB03TLZGIoceM0ykTZbfc/ts
+#EXTINF:-1,ONE PH
+http://165.5.1.254:80/play/_KZA-9owG1UyEUbcFvclwO9rNfByl4-uXgf-BytC2OQ/ts
+#EXTINF:-1,One Sports HD
+http://165.5.1.254:80/play/-7X6IYVPaCKK4jIkj67P4-5BmD2sppwJe6RmVzhBSPA/ts
+#EXTINF:-1,PBA RUSH
+http://165.5.1.254:80/play/7RJ3iFjvJjikFPSMFOXBmif39w7P6aBxjjNTJqYAALQ/ts
+#EXTINF:-1,PBO
+http://165.5.1.254:80/play/0stPpsp5XEIZWWdI449dyOZx1mmMbp2FNBNcqdfhrNw/ts
+#EXTINF:-1,VIVA Channel
+http://165.5.1.254:80/play/t1DmTE-PnTTWpRlHNZYHq1-Fq2ohxPNi_HyOPmD9K-0/ts
+#EXTINF:-1,PTV4
+http://165.5.1.254:80/play/my7i7L2cO36-wbNYYVBTWoOeBJyp8550CXG6k9oGdE4/ts
+#EXTINF:-1,RPTV
+http://165.5.1.254:80/play/IYapKogecMQT1A55eBcbIXAHkkIDonT-JxFkwkyZfRc/ts
+#EXTINF:-1,Sari Sari
+http://165.5.1.254:80/play/_MVAj81HbFiUafgc0fMEmMNWtdgDfBySBkLTZUyvU-o/ts
+#EXTINF:-1,SPOTV HD
+http://165.5.1.254:80/play/ytEAMgEno3zyrmoMGW8I8K3a0GVFrFmxFyThYwlkWbE/ts
+#EXTINF:-1,Tap Action Flix HD
+http://165.5.1.254:80/play/wYJWKDTMz-9nYsNnk1XHT_eI1x9SnecL86GXB3dV19o/ts
+#EXTINF:-1,Tap Movies HD
+http://165.5.1.254:80/play/aJj4rma-xZr7q0Wo1odph72dnfnlqoc7oA-d_bOEWMw/ts
+#EXTINF:-1,Tap Sports
+http://165.5.1.254:80/play/7Tm5DmuZrCR3X27hs6CMw-n2-eYwfPuGzd_NKzlKpdQ/ts
+#EXTINF:-1,TELERADYO
+http://165.5.1.254:80/play/ofM4u1SuGOUplBfe0agHzuF00Ev2NOedAy4mbmzuVac/ts
+#EXTINF:-1,Thrill
+http://165.5.1.254:80/play/RXGVJMh4L7LvBYcMOux1t3S13JroGiM_kaKvvHtVQFc/ts
+#EXTINF:-1,TMC
+http://165.5.1.254:80/play/1rLO1_7YxOwWtojeBylvhtPcNbLvQkh0Pqas9coCQhQ/ts
+#EXTINF:-1,Travel Channel
+http://165.5.1.254:80/play/vgk6FjFxXRpo1NduKHLAn9-7Sv547yOMsZXU9f5lW-o/ts
+#EXTINF:-1,TRUE FM
+http://165.5.1.254:80/play/T3hWILJ_xvNQdyO4EuXBrtV0eqd71mP6OxNjSLGe3Fw/ts
+#EXTINF:-1,TV5 HD
+http://165.5.1.254:80/play/5xZQKUyTo_6vi9MpOk_h7fLt_TEZlgkZtzEQu-5pj1E/ts
+#EXTINF:-1,TVN MOVIE PINOY
+http://165.5.1.254:80/play/BThFkI_Ow0Dd8ymGqTZ3jtRrOHUoRSUJxMjN4pZMHtM/ts
+#EXTINF:-1,tvN Premium HD
+http://165.5.1.254:80/play/0ZBxx9D7zpjC2If6SrdtMKVCLQ6OmBB235SpPxzIjAw/ts
+#EXTINF:-1,UAAP Varsity Channel
+http://165.5.1.254:80/play/G5eYVEPPa1pzmUeHnQAoFK51EFajKGZ1HJ7YcX-OH7U/ts
