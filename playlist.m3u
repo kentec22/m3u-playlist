@@ -1,0 +1,18 @@
+#EXTM3U
+
+# Camera Stream via RTSP
+#EXTINF:-1 tvg-id="cam301" tvg-name="Camera 301" group-title="CCTV",Camera 301
+rtsp://admin:hik12345@192.168.100.200:554/Streaming/Channels/301
+
+# Xtream Codes IPTV Stream
+# Replace this with the correct Xtream stream format (uses M3U link)
+# If player supports URL import, use this:
+# http://165.5.1.254:8080/get.php?username=llc&password=llc&type=m3u&output=ts
+# If you want to include specific entries, download and extract them manually:
+# Example below assumes it was extracted
+
+#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" group-title="Live",Channel 1
+http://165.5.1.254:8080/live/llc/llc/1.ts
+
+#EXTINF:-1 tvg-id="channel2" tvg-name="Channel 2" group-title="Live",Channel 2
+http://165.5.1.254:8080/live/llc/llc/2.ts
