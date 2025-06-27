@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
-#EXTINF:-1 tvg-id="cctv_cam301" tvg-name="CCTV Camera 301" group-title="CCTV",CCTV Camera 301
-rtsp://admin:hik12345@192.168.100.200:554/Streaming/Channels/301
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV Camera 301" group-title="CCTV",CCTV Camera 301
+http://192.168.100.90:8000/cam301.m3u8
 
 #EXTINF:-1,Asian Food Network
 http://165.5.1.254:80/play/Hfx1MraOAIsrM8Uki3UoCA/ts
