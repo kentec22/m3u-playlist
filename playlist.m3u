@@ -1,8 +1,95 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guide/ph.xml"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
-#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV Camera 301" group-title="CCTV",Villa Lara 2B
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV Camera 301" tvg-logo="http://example.com/logos/cctv1.png",Villa Lara 2B
 http://192.168.100.90:8000/cam301.m3u8
+
+#EXTINF:-1 tvg-id="asianfoodnetwork.asia" tvg-name="Asian Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Asian_Food_Network_logo_2021.svg/320px-Asian_Food_Network_logo_2021.svg.png",Asian Food Network
+http://165.5.1.254:80/play/Hfx1MraOAIsrM8Uki3UoCA/ts
+#EXTINF:-1 tvg-id="a2z.ph" tvg-name="A2Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/A2Z_Channel_11_logo.png/300px-A2Z_Channel_11_logo.png",A2Z
+http://165.5.1.254:80/play/ToDWuvkIxtOosxmigtc_Tw/ts
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png",Animal Planet
+http://165.5.1.254:80/play/7-l23RPw4HUXM_PmlnG6ug/ts
+#EXTINF:-1 tvg-id="animax.asia" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Animax_logo.svg/320px-Animax_logo.svg.png",Animax
+http://165.5.1.254:80/play/TT_ix3mAGsPqy9vJxcxox5z8BM-ku3pnzRvo6S0QTAE/ts
+#EXTINF:-1 tvg-id="axn.asia" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/AXN_logo_2015.svg/320px-AXN_logo_2015.svg.png",AXN
+http://165.5.1.254:80/play/zUNuLyfpQeovOIKwWYoBkxzi8YQwABdkjNBdvtlQpSs/ts
+#EXTINF:-1 tvg-id="bbcearth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/BBC_Earth_logo.svg/320px-BBC_Earth_logo.svg.png",BBC Earth
+http://165.5.1.254:80/play/R3ebfSQEoGtC-rarPvTAnXB4EPmCv4Ac8Fitx3fJqzE/ts
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BBC_World_News_2022.svg/320px-BBC_World_News_2022.svg.png",BBC World News
+http://165.5.1.254:80/play/Sav4ZD1rhVrC3OlATq_--KVLd9c22NEOwLKAWkR02NE/ts
+#EXTINF:-1 tvg-id="bilyonaryo.news.ph" tvg-name="Bilyonaryo News Channel" tvg-logo="http://example.com/logos/bilyonaryo.png",Bilyonaryo News Channel
+http://165.5.1.254:80/play/Sqe_qW1uNpdpsoT8hdS2y52Q6Ksemv5K1dpf7uazP3Q/ts
+#EXTINF:-1 tvg-id="bloomberg.us" tvg-name="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bloomberg_Television_Logo_2023.svg/320px-Bloomberg_Television_Logo_2023.svg.png",Bloomberg
+http://165.5.1.254:80/play/Suvb83Gxd9GvHKeSzo4nDzCoaMKBA04z8mU2aSJBjig/ts
+#EXTINF:-1 tvg-id="buko.ph" tvg-name="BUKO" tvg-logo="http://example.com/logos/buko.png",BUKO
+http://165.5.1.254:80/play/HcrCdmGuIG2hIF1o9mAknjiQ4RPvhoCPg6m1Gt7y0Gw/ts
+#EXTINF:-1 tvg-id="ibc13.ph" tvg-name="IBC13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/IBC_13_logo.svg/1200px-IBC_13_logo.svg.png",IBC13
+http://165.5.1.254:80/play/EAr4_vg5j5aAaMf4KsK_nrr5mD-CYpSXfFWFFbBiiRk/ts
+#EXTINF:-1 tvg-id="kapamilya.ph" tvg-name="KAPAMILYA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kapamilya_Channel_logo.svg/1200px-Kapamilya_Channel_logo.svg.png",KAPAMILYA CHANNEL
+http://165.5.1.254:80/play/W4Qgwfb8SMFXEwstNE3FtruoQpJAa5DMSt7p0Vq0TWk/ts
+#EXTINF:-1 tvg-id="kixhd.ph" tvg-name="Kix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kix_logo.svg/800px-Kix_logo.svg.png",Kix HD
+http://165.5.1.254:80/play/aO_Qf29ULpDsms3qzQyX96cZOU1UFxaSbMqU2VycIeQ/ts
+#EXTINF:-1 tvg-id="knowledgechannel.ph" tvg-name="Knowledge Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Knowledge_Channel_logo.png/800px-Knowledge_Channel_logo.png",Knowledge Channel
+http://165.5.1.254:80/play/8TJy7HdlhCkeoHncRuePdgA8Da67RnhHgtZaWKyDquE/ts
+#EXTINF:-1 tvg-id="moonbugkids.ph" tvg-name="Moonbug Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Moonbug_Entertainment_logo.svg/800px-Moonbug_Entertainment_logo.svg.png",Moonbug Kids
+http://165.5.1.254:80/play/aGxpQWWAjtuM9kFkH9FKC_CrZH1WGveozZoi99lXs6U/ts
+#EXTINF:-1 tvg-id="nbaph.ph" tvg-name="NBA PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/NBA_logo.svg/800px-NBA_logo.svg.png",NBA PH
+http://165.5.1.254:80/play/PJ5pxm1J7jMjYV0SylXAb3DirCZdHvinKi_Nx2xQtOM/ts
+#EXTINF:-1 tvg-id="nickelodeonsd.ph" tvg-name="Nickelodeon SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nickelodeon_2017_logo.svg/800px-Nickelodeon_2017_logo.svg.png",Nickelodeon SD
+http://165.5.1.254:80/play/tmw6WFLQC-avExOJz8_qUnNuS5R0kSzUKvebGqVnMwY/ts
+#EXTINF:-1 tvg-id="cinemo.ph" tvg-name="CINEMO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cinemo_logo_vector.svg/800px-Cinemo_logo_vector.svg.png",CINEMO
+http://165.5.1.254:80/play/XmM6EWTL-9sjz8veAIwIyYmM0ZHYu4tby4EMVacBNIk/ts
+#EXTINF:-1 tvg-id="onenews.ph" tvg-name="ONE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/One_News_logo.svg/800px-One_News_logo.svg.png",ONE NEWS
+http://165.5.1.254:80/play/bSHC6oxezMN6Ytf4JTDzxIkB03TLZGIoceM0ykTZbfc/ts
+#EXTINF:-1 tvg-id="oneph.ph" tvg-name="ONE PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/One_PH_logo.svg/800px-One_PH_logo.svg.png",ONE PH
+http://165.5.1.254:80/play/_KZA-9owG1UyEUbcFvclwO9rMByl4-uXgf-BytC2OQ/ts
+#EXTINF:-1 tvg-id="onesports.ph" tvg-name="One Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/One_Sports_logo.svg/800px-One_Sports_logo.svg.png",One Sports HD
+http://165.5.1.254:80/play/-7X6IYVPaCKK4jIkj67P4-5BmD2sppwJe6RmVzhBSPA/ts
+#EXTINF:-1 tvg-id="pbarush.ph" tvg-name="PBA RUSH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/PBA_Rush_logo.png/800px-PBA_Rush_logo.png",PBA RUSH
+http://165.5.1.254:80/play/7RJ3iFjvJjikFPSMFOXBmif39w7P6aBxjjNTJqYAALQ/ts
+#EXTINF:-1 tvg-id="pbo.ph" tvg-name="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/PBO_logo.png/800px-PBO_logo.png",PBO
+http://165.5.1.254:80/play/0stPpsp5XEIZWWdI449dyOZx1mmMbp2FNBNcqdfhrNw/ts
+#EXTINF:-1 tvg-id="viva.ph" tvg-name="VIVA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Viva_Logo.svg/800px-Viva_Logo.svg.png",VIVA Channel
+http://165.5.1.254:80/play/t1DmTE-PnTTWpRlHNZYHq1-Fq2ohxPNi_HyOPmD9K-0/ts
+#EXTINF:-1 tvg-id="ptv4.ph" tvg-name="PTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PTV4_logo.svg/800px-PTV4_logo.svg.png",PTV4
+http://165.5.1.254:80/play/my7i7L2cO36-wbNYYVBTWoOeBJyp8550CXG6k9oGdE4/ts
+#EXTINF:-1 tvg-id="rptv.ph" tvg-name="RPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/RPTV_logo.png/800px-RPTV_logo.png",RPTV
+http://165.5.1.254:80/play/IYapKogecMQT1A55eBcbIXAHkkIDonT-JxFkwkyZfRc/ts
+#EXTINF:-1 tvg-id="sarisari.ph" tvg-name="Sari Sari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sari_Sari_logo.png/800px-Sari_Sari_logo.png",Sari Sari
+http://165.5.1.254:80/play/_MVAj81HbFiUafgc0fMEmMNWtdgDfBySBkLTZUyvU-o/ts
+#EXTINF:-1 tvg-id="spotvhd.ph" tvg-name="SPOTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Spotv_logo.svg/800px-Spotv_logo.svg.png",SPOTV HD
+http://165.5.1.254:80/play/ytEAMgEno3zyrmoMGW8I8K3a0GVFrFmxFyThYwlkWbE/ts
+#EXTINF:-1 tvg-id="tapactionflix.ph" tvg-name="Tap Action Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tap_Action_Flix_logo.png/800px-Tap_Action_Flix_logo.png",Tap Action Flix HD
+http://165.5.1.254:80/play/wYJWKDTMz-9nYsNnk1XHT_eI1x9SnecL86GXB3dV19o/ts
+#EXTINF:-1 tvg-id="tapmovieshd.ph" tvg-name="Tap Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tap_Movies_HD_logo.png/800px-Tap_Movies_HD_logo.png",Tap Movies HD
+http://165.5.1.254:80/play/aJj4rma-xZr7q0Wo1odph72dnfnlqoc7oA-d_bOEWMw/ts
+#EXTINF:-1 tvg-id="tapsports.ph" tvg-name="Tap Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tap_Sports_logo.svg/800px-Tap_Sports_logo.svg.png",Tap Sports
+http://165.5.1.254:80/play/7Tm5DmuZrCR3X27hs6CMw-n2-eYwfPuGzd_NKzlKpdQ/ts
+#EXTINF:-1 tvg-id="teleradyo.ph" tvg-name="TELERADYO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Teleradyo_logo.png/800px-Teleradyo_logo.png",TELERADYO
+http://165.5.1.254:80/play/ofM4u1SuGOUplBfe0agHzuF00Ev2NOedAy4mbmzuVac/ts
+#EXTINF:-1 tvg-id="thrill.ph" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Thrill_logo.png/800px-Thrill_logo.png",Thrill
+http://165.5.1.254:80/play/RXGVJMh4L7LvBYcMOux1t3S13JroGiM_kaKvvHtVQFc/ts
+#EXTINF:-1 tvg-id="tmc.ph" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TMC_logo_2021.svg/800px-TMC_logo_2021.svg.png",TMC
+http://165.5.1.254:80/play/1rLO1_7YxOwWtojeBylvhtPcNbLvQkh0Pqas9coCQhQ/ts
+#EXTINF:-1 tvg-id="travelchannel.ph" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Travel_Channel_logo.svg/800px-Travel_Channel_logo.svg.png",Travel Channel
+http://165.5.1.254:80/play/vgk6FjFxXRpo1NduKHLAn9-7Sv547yOMsZXU9f5lW-o/ts
+#EXTINF:-1 tvg-id="truefm.ph" tvg-name="TRUE FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_FM_logo.png/800px-True_FM_logo.png",TRUE FM
+http://165.5.1.254:80/play/T3hWILJ_xvNQdyO4EuXBrtV0eqd71mP6OxNjSLGe3Fw/ts
+#EXTINF:-1 tvg-id="tv5hd.ph" tvg-name="TV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TV5_%28Philippines%29_Logo.svg/800px-TV5_%28Philippines%29_Logo.svg.png",TV5 HD
+http://165.5.1.254:80/play/5xZQKUyTo_6vi9MpOk_h7fLt_TEZlgkZtzEQu-5pj1E/ts
+#EXTINF:-1 tvg-id="tvnmoviepinoy.ph" tvg-name="TVN MOVIE PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TVN_logo.svg/800px-TVN_logo.svg.png",TVN MOVIE PINOY
+http://165.5.1.254:80/play/BThFkI_Ow0Dd8ymGqTZ3jtRrOHUoRSUJxMjN4pZMHtM/ts
+#EXTINF:-1 tvg-id="tvnpremiumhd.ph" tvg-name="tvN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TVN_logo.svg/800px-TVN_logo.svg.png",tvN Premium HD
+http://165.5.1.254:80/play/0ZBxx9D7zpjC2If6SrdtMKVCLQ6OmBB235SpPxzIjAw/ts
+#EXTINF:-1 tvg-id="uaapvarsitychannel.ph" tvg-name="UAAP Varsity Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/UAAP_Varsity_Channel_logo.png/800px-UAAP_Varsity_Channel_logo.png",UAAP Varsity Channel
+http://165.5.1.254:80/play/G5eYVEPPa1pzmUeHnQAoFK51EFajKGZ1HJ7YcX-OH7U/ts
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV Camera 301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Closed-circuit_television_camera_icon.svg/800px-Closed-circuit_television_camera_icon.svg.png",Villa Lara 2B
+http://192.168.100.90:8000/cam301.m3u8
+
+
+------
+
 
 #EXTINF:-1,Asian Food Network
 http://165.5.1.254:80/play/Hfx1MraOAIsrM8Uki3UoCA/ts
